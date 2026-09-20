@@ -1,0 +1,6 @@
+json-repair==0.47.1
+numexpr==2.14.2
+openai==1.74.0
+pandas==3.0.5
+pydantic==2.13.4
+python-dotenv==1.1.0
